@@ -1,4 +1,4 @@
-## We're Polymath Robotics!  👋
+## We're Polymath Robotics!  🤖
 
 We're empowering robotics teams to get stuff working in the field, faster. Effortlessly add autonomy
 to any industrial vehicle, so you can focus on what makes your customers tick.
