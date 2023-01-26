@@ -1,7 +1,7 @@
 ## We're Polymath Robotics!  🤖
 
-We're empowering robotics teams to get stuff working in the field, faster. Effortlessly add autonomy
-to any industrial vehicle, so you can focus on what makes your customers tick.
+We're empowering robotics teams to get stuff working in the field, faster. Effortlessly add safety
+critical navigation to any industrial vehicle, so you can focus on what makes your customers tick.
 
 If you're new, check out our podcast, "[Automate It](https://open.spotify.com/show/1lL9aEPOSYzajj21NMV9oG)",
 where our co-founders Stefan and Ilia share robotics war stories, weird facts, and little-known approaches
